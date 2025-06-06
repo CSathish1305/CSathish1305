@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sathish C and I'm an Cybersecurity Analyst </p>
+<p align="left">I'm Sathish and I'm a Cybersecurity Enthusiast </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨I'm a Student From University College of Engineering , Panruti<br>📚 I'm currently learning Cybersecurity<br>🎯 Goal : To become an Cybersecurity Analyst<br></p>
+<p align="left">✨I'm a Student From University College of Engineering , Panruti<br>📚 I'm currently learning Cybersecurity<br>🎯 Goal : To become an Cybersecurity Professional<br></p>
 
 ###
 
