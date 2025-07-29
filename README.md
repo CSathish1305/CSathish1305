@@ -41,8 +41,8 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.Iv75_JgnOuWvU-baRUaAOAHaE-?rs=1&pid=ImgDetMain" height="40" alt="tor logo"  />
   <img width="12" />
-  <img src="![OIP](https://github.com/user-attachments/assets/5f5187c8-448c-443e-b786-949da6d8965a)
-" height="40" alt="tor logo"  />
+
+
   <img width="12" />
   
 <h2 align="left">Profiles</h2>
