@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨I'm a Student From University College of Engineering , Panruti<br>📚 I'm currently learning Cybersecurity<br>🎯 Goal : To become an Cybersecurity Professional<br></p>
+<p align="left">✨I'm a B.E Computer Science and Engineering Graduate From University College of Engineering , Panruti<br>📚 I'm currently learning Cybersecurity and Building Labs and Projects <br>🎯 Goal : To become an Cybersecurity Professional<br></p>
 
 ###
 
